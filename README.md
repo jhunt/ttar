@@ -70,3 +70,5 @@ $ORIGIN foo.bl.
        IN A 10.0.0.42 ; bar
 bar    IN A 10.0.0.42
 ```
+
+[bosh]: https://bosh.io
