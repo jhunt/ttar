@@ -11,8 +11,8 @@ Each file is preceded by a file header that looks like this:
 ========================================= [<mode>] <file>
 ```
 
-(At least three equal signs must be present.  More can be provided
-if it makes the file easier to read.)
+At least three equal signs must be present.  More can be provided
+if it makes the file easier to read.
 
 The `<mode>` parameter is optional.  If present, the file will be
 chmoded to that (octal) mode.
